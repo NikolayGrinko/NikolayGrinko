@@ -7,4 +7,3 @@
 - 📫 How to reach me: grinkonikolka@yandex.ru
 - 😄 LinkedIn - "https://www.linkedin.com/in/николай-гриня-7a4b49253/"
 - ⚡ Telegrams - "@grinya37"
-- 📞 8-915-628-99-80 - telephone for communication
