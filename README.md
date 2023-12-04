@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with looking for a new job IOS - developer
 - 💬 Ask me what I can do: MVVM | UIKIT | GCD | SnapKIT | Alamofire | Moya | Firebase | CoreData
 - 📫 How to reach me: grinkonikolka@yandex.ru
-- 😄 LinkedIn - "https://www.linkedin.com/in/николай-гриня-7a4b49253/"
+- 😄 LinkedIn - "linkedin.com/in/николай-гриня-7a4b49253/"
 - ⚡ Telegrams - "@grinya37"
