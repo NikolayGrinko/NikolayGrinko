@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with looking for a new job IOS - developer
 - 💬 Ask me what I can do: MVVM | UIKIT | GCD | SnapKIT | Alamofire | Moya | Firebase | CoreData
 - 📫 How to reach me: grinkonikolka@yandex.ru
-- 😄 linkedin.com/in/николай-гриня-7a4b49253/
-- ⚡ @grinya37 - тг
-- 🤩 https://career.habr.com/grinya37
+- 😄 @grinya37 - тг
+- ⚡ He started his career at myGo and was involved in the development of the application "Planet perfecto" - the real estate sector.
+- 🤩 On my latest project I am developing an application "Kargo delivery" - grocery delivery.
